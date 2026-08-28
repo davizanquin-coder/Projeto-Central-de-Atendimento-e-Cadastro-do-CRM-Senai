@@ -132,7 +132,7 @@ O princípio **DRY (Don't Repeat Yourself)** é utilizado para evitar a repetiç
 
 As tarefas são separadas em funções específicas. Dessa forma, uma mesma função pode ser utilizada em diferentes partes do sistema sem precisar escrever novamente a mesma lógica.
 
-## Fluxo do sistema
+## Fluxo do sistema:
 
 ```text
 Início
